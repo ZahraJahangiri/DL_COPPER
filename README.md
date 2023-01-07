@@ -12,4 +12,4 @@ A dataset was generated of COPPER simulations to train, validate, and test surro
 ## Data Manipulation and Model Selection 
 The process of data cleanup and model development and evaluation is provided [here](https://github.com/ZahraJahangiri/DL_COPPER/tree/main/DataPrep_ModelDev). For model development, we used gpu provided by Compute Canada. 
 ## Clustering the results 
-we used K-Means clustering, t-SNE dimensionality reduction to be able to visualize 2000 plots, resulting from running the developed model. The codes for clustering the results and visualizing them using heatmaps are provided [here](https://github.com/ZahraJahangiri/DL_COPPER/tree/main/Visualization).
+we used K-Means clustering, t-SNE dimensionality reduction to be able to visualize 2000 plots, resulting from running the developed model. The codes for clustering the results are [here](https://github.com/ZahraJahangiri/DL_COPPER/blob/main/DataPrep_ModelDev/Blocks_COPPER1000.ipynb) and visualizing them using heatmaps and barcharts are provided [here](https://github.com/ZahraJahangiri/DL_COPPER/tree/main/Visualization).
